@@ -1,0 +1,3002 @@
+[
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "I need to schedule an AC repair.",
+        "ai_response": "Please provide the model details and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "I need to schedule a repair for my dishwasher.",
+        "ai_response": "Please provide your model number and issue details.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "How often should I clean my AC filter?",
+        "ai_response": "For optimal efficiency, clean the filter once a month.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher door won\u2019t close properly.",
+        "ai_response": "Ensure that no dishes are obstructing the door and check the latch.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "My refrigerator isn't cooling.",
+        "ai_response": "Check if the temperature settings are correct and ensure vents aren\u2019t blocked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "My AC is not blowing cold air.",
+        "ai_response": "Check if the thermostat is set correctly and clean or replace the air filter.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave display is not working.",
+        "ai_response": "Try resetting the microwave or check if there is a power issue.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "My dishwasher isn't draining properly.",
+        "ai_response": "Check if the drain hose is clogged or kinked.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "How often should I replace my refrigerator\u2019s water filter?",
+        "ai_response": "Typically, every six months, but refer to your manual for details.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The AC unit is making a strange noise.",
+        "ai_response": "Loose parts or debris might be causing the noise. Inspect the fan and motor.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "The microwave is sparking inside.",
+        "ai_response": "Avoid using metal objects inside and check for damage to the waveguide cover.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "I need a technician to fix my refrigerator.",
+        "ai_response": "Please share the model number and details about the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "There is water leaking from my refrigerator.",
+        "ai_response": "Ensure the drain line is not clogged and the defrost drain is clear.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "refrigerator",
+        "user_query": "The fridge is making a loud buzzing sound.",
+        "ai_response": "It might be due to the compressor or condenser fan. Try cleaning the coils.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "The dishwasher makes a loud noise while running.",
+        "ai_response": "This may be due to a faulty motor or an object stuck in the pump.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "My microwave isn't heating food.",
+        "ai_response": "Check if the power settings are correct and ensure the door is properly closed.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "air_conditioner",
+        "user_query": "The air conditioner is leaking water inside the house.",
+        "ai_response": "This might be due to a clogged condensate drain. Try cleaning it.",
+        "intent": "troubleshooting"
+    },
+    {
+        "appliance": "dishwasher",
+        "user_query": "How often should I clean my dishwasher filter?",
+        "ai_response": "It's recommended to clean it once a month for optimal performance.",
+        "intent": "general_inquiry"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "I need to book a service appointment for my microwave.",
+        "ai_response": "Please provide your model number and a description of the issue.",
+        "intent": "repair_request"
+    },
+    {
+        "appliance": "microwave",
+        "user_query": "How do I clean my microwave properly?",
+        "ai_response": "Use a mixture of vinegar and water, heat for two minutes, and wipe clean.",
+        "intent": "general_inquiry"
+    }
+]
